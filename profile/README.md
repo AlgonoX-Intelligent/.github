@@ -26,6 +26,6 @@ Ready for an adventure? Dive into our repository, where ideas come to life. Conn
 
 ## 🚀 Contact Us
 
-Have questions? Ideas to share? Reach out to us at info@algonox.com. The future is calling, and we're here to answer!
+Have questions? Ideas to share? Reach out to us at algonox.intelligent@gmail.com. The future is calling, and we're here to answer!
 
 🚀 Thank you for choosing AlgonoX - where innovation knows no bounds!  
