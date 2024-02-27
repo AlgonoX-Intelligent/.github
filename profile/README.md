@@ -4,8 +4,9 @@
 ## 🚀 Welcome to AlgonoX - Where Ideas Take Flight!
 
 <div align="center">
-  <img src="logo algonox.png" alt="AlgonoX Logo" width="200" height="200">
+  <img src="logo_algonox.png" alt="AlgonoX Logo" width="200" height="200" style="border-radius: 10px;">
 </div>
+
 
 At AlgonoX, we live and breathe innovation! Our mission is simple: "Innovative Research, Intelligent Solutions." We're not just pushing boundaries; we're breaking through them with style.
 
