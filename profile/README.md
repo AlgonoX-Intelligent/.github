@@ -1,6 +1,6 @@
 # AlgonoX: Unleashing Innovation, Powering Tomorrow
 
-![AlgonoX Logo](logo algonox.png)
+[AlgonoX Logo](logo algonox.png)
 
 ## 🚀 Welcome to AlgonoX - Where Ideas Take Flight!
 
