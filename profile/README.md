@@ -3,7 +3,7 @@
    # AlgonoX: Unleashing Innovation, Powering Tomorrow
 </div>
 <div align="center">
-  ## 🚀 Welcome to AlgonoX - Where Ideas Take Flight!
+   ## 🚀 Welcome to AlgonoX - Where Ideas Take Flight!
 </div>
 
 <div align="center">
