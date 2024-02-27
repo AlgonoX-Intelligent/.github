@@ -4,7 +4,7 @@
 ## 🚀 Welcome to AlgonoX - Where Ideas Take Flight!
 
 <div align="center">
-  <img src="logo_algonox.png" alt="AlgonoX Logo" width="200" height="200" style="border-radius: 10px;">
+  <img src="logo algonox.png" alt="AlgonoX Logo" width="200" height="200">
 </div>
 
 
