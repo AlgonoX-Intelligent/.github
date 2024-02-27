@@ -1,10 +1,11 @@
 # AlgonoX: Unleashing Innovation, Powering Tomorrow
 
-<div align="center">
-  <img src="logo algonox.png" alt="AlgonoX Logo" width="100" height="100">
-</div>
 
 ## 🚀 Welcome to AlgonoX - Where Ideas Take Flight!
+
+<div align="center">
+  <img src="logo algonox.png" alt="AlgonoX Logo" width="200" height="200">
+</div>
 
 At AlgonoX, we live and breathe innovation! Our mission is simple: "Innovative Research, Intelligent Solutions." We're not just pushing boundaries; we're breaking through them with style.
 
