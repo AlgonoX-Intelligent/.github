@@ -1,7 +1,10 @@
-# AlgonoX: Unleashing Innovation, Powering Tomorrow
 
-
-## 🚀 Welcome to AlgonoX - Where Ideas Take Flight!
+<div align="center">
+   # AlgonoX: Unleashing Innovation, Powering Tomorrow
+</div>
+<div align="center">
+  ## 🚀 Welcome to AlgonoX - Where Ideas Take Flight!
+</div>
 
 <div align="center">
   <img src="logo algonox.png" alt="AlgonoX Logo" width="200" height="200">
