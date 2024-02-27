@@ -1,6 +1,8 @@
 # AlgonoX: Unleashing Innovation, Powering Tomorrow
 
-[AlgonoX Logo](logo algonox.png)
+<div align="center">
+  <img src="logo algonox.png" alt="AlgonoX Logo" width="100" height="100">
+</div>
 
 ## 🚀 Welcome to AlgonoX - Where Ideas Take Flight!
 
